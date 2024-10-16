@@ -1,0 +1,157 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+.nav-logo{
+    height: 50px;
+}
+.mass-body{
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://cdn-kfopn.nitrocdn.com/eOCzJuDJxuPsNQiPVwTkkaThpHufZhyu/assets/images/optimized/rev-73ae7de/auduboncompanies.com/wp-content/uploads/2021/04/Copy-of-Hero-image-2040-x-688-2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.item-nav{
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+.anchor{
+    margin-left: auto;
+}
+.box{
+    color: white;
+}
+.txt{
+    padding-top: 100px;
+    font-family: "Lato", Helvetica, Arial, Lucida, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+.text-inner{
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 25px;
+}
+.eg-nitro{
+    font-size: 22px;
+    font-weight: 500;
+    font-family: "Lato", Arial, Helvetica, sans-serif;
+}
+
+.core-text{
+    font-size: 25px;
+}
+.pb-text-inner{
+    padding-left: 20px;
+}
+.divider{
+    width: 100%;
+    color: aqua;
+    
+}
+.card-container{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
+    
+}
+.btn-primary{
+    color: red;
+    background-color: white;
+    border-color: black;
+    border: 0cap;
+    text-align: end;
+}
+.btn-primary:hover{
+    background-color: rgb(34, 34, 33);
+}
+.card:hover{
+    box-shadow: gray;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #00325b;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.footer-logo img {
+    width: 50px;
+    margin-bottom: 15px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.footer-column {
+    display: flex;
+    flex-direction: column;
+    margin: 0 20px;
+}
+
+.footer-column a {
+    color: white;
+    text-decoration: none;
+    margin: 5px 0;
+    font-size: small;
+}
+
+.footer-column a:hover {
+    text-decoration: underline;
+}
+
+.footer-disclaimer {
+    font-size: 12px;
+    max-width: 800px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+
+.footer-bottom p {
+    margin: 0;
+}
+
+.footer-social {
+    display: flex;
+}
+
+.footer-social a {
+    margin: 0 10px;
+}
+
+.footer-social img {
+    width: 20px;
+}
+.card-container{
+    padding-bottom: 20px;
+  
+}
